@@ -1,9 +1,9 @@
-import React from 'react'
+// import React from 'react'
 
-const Breeds = () => {
-    return (
-        <div>Breeds</div>
-    )
-}
+// const Breeds = () => {
+//     return (
+//         <div>Breeds</div>
+//     )
+// }
 
-export default Breeds
+// export default Breeds

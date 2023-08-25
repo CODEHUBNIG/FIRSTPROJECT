@@ -1,11 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
-import Breeds from './components/breeds/Breeds';
+import './App.css'; 
+import Gallery from './components/gallery/Gallery';  
+
+
+ 
 
 function App() {
   return (
-    <div className="App">
-      {/* what you are working on */}
+    <div className="App"> 
+      <div className='Gallery-Sec'>
+        <Gallery />
+      </div>
     </div>
   );
 }
