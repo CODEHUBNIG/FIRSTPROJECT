@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from 'react'
 import './Voting.css'
 const Voting = () => {
@@ -100,6 +99,4 @@ const Voting = () => {
 }
 
 export default Voting
-=======
 
->>>>>>> e05e1b37087c5b69fe7d907dec1a6a45adf39ac2
