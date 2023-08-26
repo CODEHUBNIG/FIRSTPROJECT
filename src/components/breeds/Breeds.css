@@ -1,0 +1,338 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+*{
+    font-family: 'Jost', sans-serif;
+}
+#pets{
+   width: 71.87px;
+   height: 12.56px;
+   margin-top: 6.44px;
+   ;
+
+}
+
+#paw{
+    font-weight: 700;
+    width: 24px;
+    height: 24px;
+}
+#macpaw{
+    font-size: 20px;
+  
+}
+#api{
+    line-height: 28.9px;
+    font-size: 20px;
+
+}
+#logo{
+    
+   display: flex;
+   gap: 10px;
+   width: 106.16;
+   height: 24px;
+   margin-top: 10px;
+  
+}
+#hi{
+    margin-top: 20px;
+}
+#mask{
+    width: 446px;
+    height: 450px;
+}
+#mask-group{
+    display: flex;
+    gap: 20px;
+}
+#buttons{
+    display: flex;
+    gap: 20px;
+}
+
+#btn{
+    width: 138px;
+    height: 36px;
+    border-radius: 10px;
+    border: none;
+    background-color: #fff;
+    color:#FF868E ;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 2px;
+}
+
+#btn:hover{
+    background-color: #FF868E;
+    color: white;
+}
+
+#header{
+    margin-top: 70px;
+   
+}
+
+
+/* search box area */
+#search-box{
+    display: flex;
+}
+#search-btn{
+    display: flex;
+    width: 470px;
+    gap: 10px;
+    height: 50px;
+    outline: none;
+}
+input:focus{
+   outline: none;
+}
+#search{
+    width: 400px;
+    height: 50px;
+    border-radius: 20px;
+    padding-left: 15px;
+    border: none;
+
+}
+#search-box{
+    gap: 25px;
+    width: 470px;
+    height: 60px;
+}
+#search-bg img{
+    width: 20px;
+   height: 20px;
+   margin-top: 10px;
+}
+#search-bg{
+    width: 40px;
+    text-align: center;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #FBE0DC;
+    margin-top:4px;
+  
+}
+#sticker-box{
+    display: flex;
+    gap: 35px;
+    cursor: pointer;
+    height: 30px;
+    margin-top: 10px;
+}
+#stickers{
+    width: 30px;
+    height: 32.70000076293945px
+}
+
+
+#cat{
+    width: 640px;
+    height: 680px;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 5px;
+    box-shadow: 4px 10px 10px 5px rgb(234, 235, 235);;
+    
+}
+
+/* cats image grid */
+.cats-wrapper{
+   
+    width: 615px;
+    height: 650px;
+
+}
+#cat{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+#cat1{
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    left: -px;
+}
+#cat1 img{
+    width: 200px;
+    height: 250px; 
+    border-radius: 25px;
+
+}
+#cat2{
+    width: 200px;
+    height: 140px;
+    position: absolute;
+    left: 995px;
+    border-radius: 25px;
+}
+#cat2 img{
+    width: 190px;
+    height: 140px;
+}
+#cat-bt{
+    width: 160px;
+    height: 34px;
+    position: absolute;
+    top: 100px;
+    left: 15px;
+    border: none;
+    line-height: 24px;
+    color: #FF868E;
+    border-radius: 10px;
+}
+#cat3{
+    width: 190px;
+    height: 140px;
+    position: absolute;
+    left: 1200px;
+}
+#cat3 img{
+    width: 190px;
+    height: 140px; 
+    border-radius: 25px;
+    z-index: -1;
+    background-color: rgba(255, 134, 142, 80%)
+}
+
+#cat4{
+    width: 210px;
+    height: 140px;
+    position: absolute;
+    top: 400px;
+    left: -px;
+}
+#cat4 img{
+    width: 200px;
+    height: 120px;
+    border-radius: 25px;
+}
+
+#cat5{
+    width: 415px;
+    height: 300;
+    position: absolute;
+    top: 290px;
+    left: 992px;
+
+}
+
+#cat5 img{
+    width: 400px;
+    height: 230px;
+    border-radius: 25px;
+}
+
+#cat6{
+    width: 200px;
+    height: 140px;
+    position: absolute;
+    top: 540px;
+    
+    
+}
+
+#cat6 img{
+    width: 200;
+    height: 140px; 
+    border-radius: 25px;
+}
+
+#cat7{
+    width: 200px;
+    height: 140px;
+    position: absolute;
+    top: 540px;
+    left: 1000px;
+}
+#cat7 img{
+    width: 200px;
+    height: 140px;
+    border-radius: 25px;
+}
+
+#cat8{
+    width: 170px;
+    height: 200px;
+    position: absolute;
+    top: 540px;
+    left: 1220px;
+
+}
+#cat8 img{
+    width: 170px;
+    height: 200px;  
+    border-radius: 25px;
+}
+
+#cat9{
+    width: 420px;
+    height: 50px;
+    position: absolute;
+    top: 690px;
+
+
+}
+
+#cat9 img{
+    width: 420px;
+    height: 50px;
+    border-radius: 10px;  
+}
+
+
+/* breed search area */
+
+#breed-search{
+
+    display: flex;
+    justify-content: space-between;
+    height: 45px;
+}
+#breed-list {
+    width: 220px;
+    height: 35px;
+    border: none;
+    background-color: #e7e0e04b;
+    color:rgba(140, 140, 140, 1) ;
+    border-radius: 5px;
+    padding-left:5px ;
+    padding-right: 5px;
+}
+
+#limit{
+    width: 100px;
+    height: 35px;
+    border: none;
+    color:rgba(140, 140, 140, 1) ;
+    background-color: #e7e0e04b;
+    border-radius: 5px;
+    padding-left:5px ;
+    padding-right: 5px;
+}
+#breed-btn{
+    width: 140px;
+    border-radius: 5px;
+    height: 35px;
+    background-color: #FF868E;
+    color: white;
+    border: none;
+}
+#arrow-btn{
+    width: 35px;
+    height: 35px;
+    color: #FF868E;
+    background-color: #FBE0DC;
+    border-radius: 5px;
+    border: none;
+}
+
+#sort-btn{
+    width: 35px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(249, 246, 246);
+    color:rgba(140, 140, 140, 1) ;
+}
