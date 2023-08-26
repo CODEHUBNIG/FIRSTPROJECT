@@ -3,7 +3,7 @@ import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faChevronLeft, faArrowUpAZ , faArrowDownZA} from '@fortawesome/free-solid-svg-icons'
 import 'bootstrap/dist/css/bootstrap.min.css';
- import './Breeds.css'
+import './Breeds.css'
 import maka1 from './images/Mask Group.png'
 import maka2 from './images/Mask Group (1).png'
 import maka3 from './images/Mask Group (2).png'
@@ -21,7 +21,6 @@ import catimage7 from './images/image 9.png'
 import catimage8 from './images/image 8.png'
 import catimage9 from './images/image 10.png'
 import catimageblur from './images/Rectangle 56.png'
-
 import logo from './images/Group 18.png'
 import petspaw from './images/PetsPaw.png'
 
