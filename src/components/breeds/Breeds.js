@@ -1,9 +1,9 @@
+
 import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faChevronLeft, faArrowUpAZ , faArrowDownZA} from '@fortawesome/free-solid-svg-icons'
 import 'bootstrap/dist/css/bootstrap.min.css';
  import './Breeds.css'
-import img1 from './images/Frame 1.png'
 import maka1 from './images/Mask Group.png'
 import maka2 from './images/Mask Group (1).png'
 import maka3 from './images/Mask Group (2).png'
@@ -130,4 +130,7 @@ function Breeds() {
   )
 }
 
-export default Breeds
+
+
+
+ export default Breeds

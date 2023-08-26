@@ -1,0 +1,47 @@
+
+.gallery-section{  
+    /* color: darkblue; */
+    background-color: rebeccapurple;
+    width: 100%;
+    /* min-height: 100vh; */
+    padding: 1rem ;  
+}
+.gallery-cont{   
+    width: 100%;
+    margin: 0 auto; 
+    background-color:red;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    /* align-items: center; */
+
+}
+.stick{
+    width: 100%;
+    background-color: red; 
+}
+.image-section{
+    background-color: gold;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
