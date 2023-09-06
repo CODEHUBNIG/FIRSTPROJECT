@@ -2,7 +2,7 @@ import React from 'react'
 import './Voting.css'
 const Voting = () => {
     return (
-        <section className='sec-1'>
+        <section className='sec-1' style={{ width: "50%" }}>
             <div className='div-1'>
                 <div className='div-1a' >
                     <input type="text" className='srch' placeholder="Search for breeds by name" aria-label="Search" />

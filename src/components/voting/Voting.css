@@ -1,8 +1,8 @@
 .sec-1 {
   width: 50%;
   height: 100%;
-  margin-left: 50%;
   background-color: whitesmoke;
+  box-shadow: 4px 10px 10px 5px rgb(234, 235, 235);
 }
 .div-1 {
   display: flex;

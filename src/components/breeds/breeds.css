@@ -1,7 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
-*{
-    font-family: 'Jost', sans-serif;
-}
+
 #pets{
    width: 71.87px;
    height: 12.56px;
@@ -131,7 +128,7 @@ input:focus{
     height: 680px;
     background-color: rgba(255, 255, 255, 1);
     border-radius: 5px;
-    box-shadow: 4px 10px 10px 5px rgb(234, 235, 235);;
+    box-shadow: 4px 10px 10px 5px rgb(234, 235, 235);
     
 }
 
